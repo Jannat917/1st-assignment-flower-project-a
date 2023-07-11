@@ -1,0 +1,453 @@
+ 
+ body {
+    font-family: 'Lato', sans-serif;
+ }
+ /* Header Section Styles */
+
+
+ .header-title{
+
+    color: #272727;
+font-size: 50px;
+font-weight: 800;
+width: 500px;
+ }
+
+ .header-p{
+
+color: rgba(39, 39, 39, 0.60);
+font-size: 18px;
+font-weight: 400;
+line-height: 30px;
+width: 400px;
+
+ }
+
+ .header-button{
+ padding: 20px 43px;
+ gap: 10px;
+border-radius: 8px;
+background: #E55473;
+color: #FFFFFF;
+border: 0;
+ }
+
+ .header-img{
+ width: 500px;
+height: 750px;
+
+ }
+
+ .section-header-container{
+
+    display: flex;
+    justify-content: space-around;
+    background-color: rgba(229, 84, 115, 0.10);
+    margin: 0;
+
+    width: auto;
+  
+ }
+   /* Main Section-1 Styles*/
+
+   .main-section-1{
+    padding-top: 80px;
+width: 1300px;
+
+   }
+
+   .main-section-1-title{
+    color: #272727;
+text-align: center;
+font-size: 40px;
+font-weight: 800;
+padding: 8px;
+   }
+
+   .main-section-1-p{
+
+color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-size: 18px;
+font-weight: 400;
+height: 22;
+padding: 4px;
+
+
+   }
+
+
+   .section-1-img-p {
+
+    color: #272727;
+text-align: center;
+font-size: 21px;
+font-weight: 500;
+line-height: 25px;
+text-decoration:underline;
+   }
+
+   .section-1-img{
+    
+padding-top:70px;
+
+width: 250px;
+height: 330px;
+
+   }
+
+   .section-1-img-2{
+padding-top: 90px;
+padding-bottom: 20px;
+width: 290px;
+height: 290px;
+   }
+
+   .main-section-1-column-1{
+
+    width: 320px;
+        height: 400px;
+text-align: center;
+
+border-radius: 300px 300px 0px 0px;
+background: rgba(167, 33, 98, 0.15);
+   }
+
+
+   .main-section-1-column-2{
+
+    width: 320px;
+   height: 400px;
+text-align: center;
+
+border-radius: 300px 300px 0px 0px;
+background-color: rgba(5, 151, 160, 0.15);
+   }
+
+
+   .main-section-1-column-3{
+
+    width: 320px;
+        height: 400px;
+  text-align: center;
+  border-radius: 300px 300px 0px 0px;
+  background: rgba(71, 125, 17, 0.15);
+     }
+
+
+.main-section-1-column-container{
+
+
+    width: 1250px;
+   height: 500px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    margin-top:  80px;
+
+padding-left: 50px;
+gap:5px;
+
+}
+
+
+/*Main Section 2 Styles*/
+
+.main-section-2{
+
+    display: flex;
+justify-content: space-around;
+height: 620px;
+border-radius: 8px;
+background: rgba(229, 84, 115, 0.05);
+width: auto;
+
+
+}
+
+.main-section-2-title{
+
+    color: #272727;
+font-size: 40px;
+font-weight: 800;
+padding-top: 200px;
+padding-left: 150px;
+}
+
+.off{
+  color:  #E55473;
+}
+
+.main-section-2-p{
+
+    display: flex;
+width: 594px;
+flex-direction: column;
+color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-size: 18px;
+font-weight: 400;
+line-height: 30px;
+padding-left: 140px;
+}
+
+
+.main-section-2-button{
+    padding: 20px 43px;
+    border-radius: 8px;
+background-color: #E55473;
+color: #FFF;
+font-size: 20px;
+font-weight: 700;
+border: 0px;
+}
+
+.main-section-2-button-div{
+    padding-left: 360px;
+}
+
+.main-section-2-img-1{
+
+padding-top: 100px;
+
+width: 318px;
+height: 420px;
+
+}
+
+/* Main Section 3 Styles*/
+
+.main-section-3-title{
+
+    color: #272727;
+text-align: center;
+font-size: 40px;
+font-weight: 800;
+}
+
+.main-section-3-p{
+
+ color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-size: 18px;
+font-weight: 400;
+line-height: 30px;
+width: 594px;
+padding-left: 300px;
+
+}
+
+.main-section-3-column-container{
+
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    gap: 24px;
+    width: 1170px;
+   
+
+}
+
+.main-section-3-img{
+
+    width: 250px;
+height: 300px;
+}
+
+.main-section-3{
+width: 1130px;
+
+padding-top: 90px;
+padding-left: 90px;
+padding-bottom: 120px;
+}
+
+/*Main Section 4 Styles*/
+
+.main-section-title{
+
+color: #272727;
+text-align: center;
+font-size: 40px;
+font-weight: 800;
+
+padding-top: 100px;
+}
+
+.main-section-4-p{
+
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-size: 18px;
+font-weight: 400;
+line-height: 30px;
+}
+
+.main-section-4-input{
+    width: 700px;
+height: 64px;
+
+color: rgba(39, 39, 39, 0.60);
+text-align: left;
+font-size: 16px;;
+font-weight: 400;
+border: 0;
+border-radius: 8px;
+}
+
+.section-4-input{
+padding-left: 220px;
+}
+.section-4-button{
+
+    width: 150px;
+height: 64px;
+border-radius: 8px;
+background-color: #E55473;
+
+color: #FFF;
+font-size: 20px;
+font-weight: 700;
+border: 0;
+
+}
+
+.section-4-button-div{
+
+    padding-right: 250px;
+}
+.section-4-input-submit-container{
+
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    gap: 15px;
+}
+
+.main-section-4{
+
+    background-image: url('../Flower\ Asset/rectangle\ 9.png');
+  
+width: 1150px;
+height: 449px;
+background-repeat: no-repeat;
+margin: 100px;
+}
+
+/* Footer Section Style */
+
+.footer-section-title{
+
+    color: #E55473;
+font-size: 48px;
+font-weight: 800;
+
+
+}
+.footer-span{
+    color: #FFFFFF;
+}
+
+.footer-section-p{
+
+color: rgba(255, 255, 255, 0.90);
+text-align: center;
+font-size: 18px;
+font-weight: 400px;
+
+}
+
+.footer-section-h6{
+
+color: rgba(255, 255, 255, 0.40);
+text-align: center;
+font-size: 16px;
+font-weight: 400;
+}
+
+.footer-section-container{
+padding-top: 90px;
+    background-color: #111010;
+    text-align: center;
+height: 450px;
+width: auto;
+padding-right: 400px;
+padding-left: 400px;
+
+
+}
+
+
+/* Extra Section Styles*/
+
+.extra-section{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    width: 1050px;
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+    padding: 50px;
+    margin: 100px;
+}
+
+.extra-section-column{
+
+    width : auto;
+    height: auto;
+}
+
+.extra-section-p{
+
+    color: rgba(39, 39, 39, 0.80);
+text-align: center;
+font-size: 22px;
+font-weight: 550;
+line-height: 30px;
+}
+
+/* self created section style*/
+
+.section-self-created{
+
+background-color: rgb(235, 238, 238);
+display: flex;
+justify-content: space-around;
+height: 450px;
+
+
+}
+
+.self-created-section-img{
+
+    width: 300px;
+
+    padding-top: 120px;
+
+    
+}
+
+.section-self-created-h1{
+
+    color: #272727;
+text-align: center;
+font-size: 40px;
+font-weight: 800;
+padding-top: 100px;
+padding-right: 50px;
+}
+
+.section-self-created-p{
+
+color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-size: 18px;
+font-weight: 400;
+line-height: 30px;
+width:600px;
+}
+
+.span-cherish{
+
+    color: #E55473;
+}
