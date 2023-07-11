@@ -11,6 +11,7 @@
 font-size: 50px;
 font-weight: 800;
 width: 500px;
+  padding-top: 30px;
  }
 
  .header-p{
@@ -443,9 +444,16 @@ font-size: 18px;
 font-weight: 400;
 line-height: 30px;
 width:600px;
+
+padding-left: 20px;
 }
 
 .span-cherish{
 
     color: #E55473;
+}
+
+.section-self-created-column-1{
+
+    padding-left: 10px;
 }
